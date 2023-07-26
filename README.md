@@ -1,9 +1,11 @@
 # How Animate In REACT
 
-We are going to use following methodologies
+![image](https://github.com/Solid-Analytics/animate_css/assets/136421692/70ba0e3d-a22b-4531-8585-286eb9d7cdf3)
 
-- React on screen
-- Animate.css
+We are going to use following packages
+
+- React on screen - https://www.npmjs.com/package/react-on-screen
+- Animate.css - https://animate.style/
 
 ## Dependencies Required
 ```
@@ -26,4 +28,7 @@ We are going to use following methodologies
 
 ```
 
-https://www.npmjs.com/package/react-on-screen
+
+
+
+
